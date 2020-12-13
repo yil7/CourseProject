@@ -1,6 +1,6 @@
 # CS 410 Final Project:  Classification Competition
 ## Preparation 
-Dataset used is 'test.jsonl' and 'train.jsonl' in the data folder.
+Dataset used is `test.jsonl` and `train.jsonl` in the data folder.
 
 
 ## Required Packages
