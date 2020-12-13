@@ -30,7 +30,7 @@ All the work done within the jupyter notebook `CNN-final.ipynb`
 All the work done within the jupyter notebook `Text Classification baseline.ipynb`
 
 ## Documentation
-'Documentation.docx'
+`Documentation.docx`
 
 ## Video Illustration
 https://youtu.be/UJcDlOYOAZY
