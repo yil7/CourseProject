@@ -23,14 +23,22 @@ Datasets used are `test.jsonl` and `train.jsonl` in the data folder.
 * [os](https://docs.python.org/3/library/os.html?highlight=os#module-os)
 * [keras](https://pypi.org/project/Keras/)
 
+## Baseline Model
+All the work done within the jupyter notebook `Text Classification baseline.ipynb`
+
 ## CNN Model
 All the work done within the jupyter notebook `CNN-final.ipynb`
 
-## Baseline Model
-All the work done within the jupyter notebook `Text Classification baseline.ipynb`
+## BERT Model
+All the work done within the jupyter notebook `BERT.ipynb`
 
 ## Documentation
 `Documentation.docx`
 
 ## Video Illustration
 https://youtu.be/UJcDlOYOAZY
+
+## Reference
+CNN: https://towardsdatascience.com/cnn-sentiment-analysis-1d16b7c5a0e7
+BERT: https://colab.research.google.com/drive/1pTuQhug6Dhl9XalKB0zUGf4FIdYFlpcX#scrollTo=DEfSbAA4QHas
+
