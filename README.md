@@ -40,5 +40,6 @@ https://youtu.be/UJcDlOYOAZY
 
 ## Reference
 CNN: https://towardsdatascience.com/cnn-sentiment-analysis-1d16b7c5a0e7
+
 BERT: https://colab.research.google.com/drive/1pTuQhug6Dhl9XalKB0zUGf4FIdYFlpcX#scrollTo=DEfSbAA4QHas
 
