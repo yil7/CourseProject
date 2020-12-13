@@ -1,6 +1,6 @@
 # CS 410 Final Project:  Classification Competition
 ## Preparation 
-Dataset used is livedatalab_config.json.
+Dataset used is 'livedatalab_config.json'.
 
 
 ## Required Packages
